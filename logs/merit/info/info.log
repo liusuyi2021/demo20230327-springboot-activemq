@@ -1,0 +1,329 @@
+2023-03-27 20:54:28.619 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 3280 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 20:54:28.619 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:54:29.536 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 20:54:29.545 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 20:54:29.546 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 20:54:29.546 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 20:54:29.656 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 20:54:29.656 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 999 ms
+2023-03-27 20:54:30.279 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 20:54:30.300 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 20:54:30.310 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.13 seconds (JVM running for 3.376)
+2023-03-27 20:54:35.006 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 20:54:35.006 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 20:54:35.008 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 20:55:30.819 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 1760 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 20:55:30.823 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:55:31.726 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 20:55:31.735 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 20:55:31.736 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 20:55:31.736 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 20:55:31.837 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 20:55:31.837 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 979 ms
+2023-03-27 20:55:32.510 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 20:55:32.531 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 20:55:32.537 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.226 seconds (JVM running for 3.459)
+2023-03-27 20:55:56.348 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 9108 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 20:55:56.356 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:55:57.237 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 20:55:57.246 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 20:55:57.246 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 20:55:57.246 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 20:55:57.357 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 20:55:57.357 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 954 ms
+2023-03-27 20:55:57.979 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 20:55:58.002 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 20:55:58.011 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.141 seconds (JVM running for 3.284)
+2023-03-27 20:56:12.458 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 20:56:12.458 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 20:56:12.459 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 20:56:12.533 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:14.933 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:19.387 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:19.781 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:21.590 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:21.961 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:22.293 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:22.724 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:23.079 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:23.376 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:56:23.756 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:44.882 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:45.633 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:46.255 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:47.080 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:57.361 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:57.804 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:58.844 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:58:59.734 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:00.403 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:00.922 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:01.468 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:01.996 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:02.631 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:03.338 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:05.711 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:07.164 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:07.829 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:08.409 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:09.077 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:09.673 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:10.266 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:10.847 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:11.404 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:12.047 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:12.610 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 20:59:13.188 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue2接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:19.335 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 10120 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:35:19.335 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:35:20.254 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:35:20.263 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:35:20.263 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:35:20.263 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:35:20.381 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:35:20.381 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 986 ms
+2023-03-27 21:35:21.020 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:35:21.039 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:35:21.048 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.186 seconds (JVM running for 3.26)
+2023-03-27 21:35:26.109 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 21:35:26.110 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 21:35:26.111 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 21:35:26.185 [ActiveMQ Session Task-5] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:26.185 [ActiveMQ Session Task-2] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:26.185 [ActiveMQ Session Task-3] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:26.185 [ActiveMQ Session Task-4] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:26.185 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:26.185 [ActiveMQ Session Task-6] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:33.814 [ActiveMQ Session Task-2] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:33.814 [ActiveMQ Session Task-3] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:33.814 [ActiveMQ Session Task-6] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:33.814 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:33.814 [ActiveMQ Session Task-4] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:33.814 [ActiveMQ Session Task-5] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:35.392 [ActiveMQ Session Task-5] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:35.392 [ActiveMQ Session Task-4] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:35.393 [ActiveMQ Session Task-4] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:35.393 [ActiveMQ Session Task-5] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:35.393 [ActiveMQ Session Task-4] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:35:35.394 [ActiveMQ Session Task-4] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:36:45.477 [ActiveMQ Session Task-8] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:36:45.477 [ActiveMQ Session Task-7] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:36:45.477 [ActiveMQ Session Task-9] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:36:45.477 [ActiveMQ Session Task-10] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:36:45.478 [ActiveMQ Session Task-11] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:36:45.478 [ActiveMQ Session Task-12] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:30.172 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 9480 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:39:30.175 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:39:30.989 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:39:30.997 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:39:30.998 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:39:30.998 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:39:31.104 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:39:31.104 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 882 ms
+2023-03-27 21:39:31.746 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:39:31.765 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:39:31.774 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.074 seconds (JVM running for 3.076)
+2023-03-27 21:39:33.568 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 21:39:33.569 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 21:39:33.570 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 21:39:33.642 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:37.354 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:38.058 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:38.781 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:39.499 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:40.153 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:40.816 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:41.409 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:42.040 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:42.580 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:43.088 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:43.643 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:44.282 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:44.599 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:45.070 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:45.732 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:46.125 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:39:46.500 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:01.015 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 8972 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:40:01.019 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:40:01.858 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:40:01.865 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:40:01.865 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:40:01.865 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:40:01.973 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:40:01.974 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 910 ms
+2023-03-27 21:40:02.657 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:40:02.679 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:40:02.688 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.166 seconds (JVM running for 3.319)
+2023-03-27 21:40:20.263 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 21:40:20.264 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 21:40:20.265 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 21:40:44.270 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 2364 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:40:44.275 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:40:45.139 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:40:45.145 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:40:45.145 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:40:45.145 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:40:45.294 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:40:45.294 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 970 ms
+2023-03-27 21:40:45.983 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:40:46.003 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:40:46.004 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.013 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.013 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.013 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.014 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.014 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.014 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.014 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.014 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.014 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.22 seconds (JVM running for 3.211)
+2023-03-27 21:40:46.014 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.014 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.015 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:40:46.015 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:37.342 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 884 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:48:37.345 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:48:38.255 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:48:38.264 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:48:38.264 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:48:38.264 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:48:38.375 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:48:38.375 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 990 ms
+2023-03-27 21:48:39.014 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:48:39.034 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:48:39.045 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.121 seconds (JVM running for 3.245)
+2023-03-27 21:48:45.892 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 21:48:45.892 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 21:48:45.893 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 21:48:45.972 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:54.075 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:54.663 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:55.300 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:55.884 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:56.460 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:56.939 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:48:57.417 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic1接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:54:40.524 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 6100 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:54:40.528 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:54:41.389 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:54:41.397 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:54:41.398 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:54:41.398 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:54:41.509 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:54:41.509 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 943 ms
+2023-03-27 21:54:42.145 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:54:42.165 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:54:42.174 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.12 seconds (JVM running for 3.139)
+2023-03-27 21:54:43.653 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 21:54:43.653 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 21:54:43.654 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 21:54:48.734 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:54:53.744 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:54:58.754 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:03.774 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:08.794 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:13.804 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - topic2接收的消息是：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:22.256 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 16496 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:55:22.256 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:55:23.074 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:55:23.085 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:55:23.085 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:55:23.085 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:55:23.196 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:55:23.196 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 891 ms
+2023-03-27 21:55:23.804 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:55:23.825 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:55:23.836 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 1.994 seconds (JVM running for 2.963)
+2023-03-27 21:55:32.272 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 21:55:32.272 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 21:55:32.273 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 21:55:37.359 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:42.364 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:47.383 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:52.394 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:55:57.404 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:02.414 [ActiveMQ Session Task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:40.475 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 11408 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 21:56:40.475 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 21:56:41.384 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 21:56:41.395 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:56:41.395 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 21:56:41.395 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 21:56:41.515 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 21:56:41.515 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 979 ms
+2023-03-27 21:56:42.195 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 21:56:42.214 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 21:56:42.225 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.275 seconds (JVM running for 3.475)
+2023-03-27 21:56:44.606 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 21:56:44.606 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 21:56:44.607 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 21:56:49.694 [task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:50.034 [task-2] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:50.584 [task-3] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:51.164 [task-4] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:51.704 [task-5] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:52.144 [task-6] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:52.664 [task-7] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:56:53.154 [task-8] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:57:02.004 [task-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:57:12.274 [task-2] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:57:18.514 [task-3] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 21:57:34.020 [task-4] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:08.915 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 8156 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 22:08:08.915 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 22:08:09.745 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 22:08:09.754 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 22:08:09.754 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 22:08:09.754 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 22:08:09.865 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 22:08:09.865 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 901 ms
+2023-03-27 22:08:10.554 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 22:08:10.583 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 22:08:10.592 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.159 seconds (JVM running for 3.778)
+2023-03-27 22:08:16.200 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 22:08:16.200 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 22:08:16.201 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 22:08:21.284 [MqttExecutor-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:21.504 [MqttExecutor-2] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:22.104 [MqttExecutor-3] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:22.624 [MqttExecutor-4] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:23.125 [MqttExecutor-5] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:24.984 [MqttExecutor-6] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:25.554 [MqttExecutor-7] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:26.014 [MqttExecutor-8] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:29.618 [MqttExecutor-9] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:30.864 [MqttExecutor-10] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:32.594 [MqttExecutor-11] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:33.244 [MqttExecutor-12] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:50.260 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Starting Demo20230327SpringbootActivemqApplication using Java 1.8.0_202 on liusuyi with PID 18144 (Y:\java\demo20230327-springboot-activemq\target\classes started by 刘苏义 in Y:\java\demo20230327-springboot-activemq)
+2023-03-27 22:08:50.263 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 22:08:51.115 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 22:08:51.123 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 22:08:51.124 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 22:08:51.124 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-03-27 22:08:51.235 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 22:08:51.235 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 920 ms
+2023-03-27 22:08:51.885 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 22:08:51.905 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 22:08:51.914 [main] INFO  c.e.Demo20230327SpringbootActivemqApplication - Started Demo20230327SpringbootActivemqApplication in 2.134 seconds (JVM running for 3.294)
+2023-03-27 22:08:53.238 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 22:08:53.238 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 22:08:53.239 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 22:08:53.318 [MqttExecutor-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:53.870 [MqttExecutor-2] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:54.723 [MqttExecutor-3] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:55.228 [MqttExecutor-4] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:56.037 [MqttExecutor-5] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:08:56.780 [MqttExecutor-6] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:00.749 [MqttExecutor-7] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:02.248 [MqttExecutor-8] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:03.059 [MqttExecutor-9] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:03.911 [MqttExecutor-10] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:04.718 [MqttExecutor-11] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:05.455 [MqttExecutor-12] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:06.265 [MqttExecutor-13] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:06.971 [MqttExecutor-14] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:07.710 [MqttExecutor-15] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:08.449 [MqttExecutor-1] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
+2023-03-27 22:09:09.208 [MqttExecutor-2] INFO  com.example.mq.QueueConsumerListener - queue接受到：{"url":"https://anruida.app.zihai.shop/?id=ard333&pass=ard333","cmd":"open"}
