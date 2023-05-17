@@ -6,7 +6,6 @@ import org.springframework.jms.annotation.EnableJms;
 import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
-@EnableAsync
 public class Demo20230327SpringbootActivemqApplication {
 
     public static void main(String[] args) {

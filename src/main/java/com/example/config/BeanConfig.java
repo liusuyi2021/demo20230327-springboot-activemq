@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jms.annotation.EnableJms;
+import org.springframework.jms.config.DefaultJmsListenerContainerFactory;
 import org.springframework.jms.config.JmsListenerContainerFactory;
 import org.springframework.jms.config.JmsListenerEndpoint;
 import org.springframework.jms.config.SimpleJmsListenerContainerFactory;
@@ -94,9 +95,28 @@ public class BeanConfig {
     //在Topic模式中，对消息的监听需要对containerFactory进行配置
     @Bean("topicListener")
     public JmsListenerContainerFactory<?> topicJmsListenerContainerFactory(ConnectionFactory connectionFactory) {
-        SimpleJmsListenerContainerFactory factory = new SimpleJmsListenerContainerFactory();
+        //SimpleJmsListenerContainerFactory factory = new SimpleJmsListenerContainerFactory();
+        DefaultJmsListenerContainerFactory factory = new DefaultJmsListenerContainerFactory();
         factory.setConnectionFactory(connectionFactory);
+        // pubSubDomain 表示开启发布订阅域
         factory.setPubSubDomain(true);
+        // 开启持久订阅。即下线后重新上线依然能继续接收Topic消息
+        factory.setSubscriptionDurable(true);
+        // 持久订阅的Client端标识(多个端持久订阅需要保证唯一性，否则可能会出现问题)
+        factory.setClientId("dingli");
+        return factory;
+    }
+    @Bean("topicListener1")
+    public JmsListenerContainerFactory<?> topicJmsListenerContainerFactory1(ConnectionFactory connectionFactory) {
+        //SimpleJmsListenerContainerFactory factory = new SimpleJmsListenerContainerFactory();
+        DefaultJmsListenerContainerFactory factory = new DefaultJmsListenerContainerFactory();
+        factory.setConnectionFactory(connectionFactory);
+        // pubSubDomain 表示开启发布订阅域
+        factory.setPubSubDomain(true);
+        // 开启持久订阅。即下线后重新上线依然能继续接收Topic消息
+        factory.setSubscriptionDurable(true);
+        // 持久订阅的Client端标识(多个端持久订阅需要保证唯一性，否则可能会出现问题)
+        factory.setClientId("dingli1");
         return factory;
     }
 }

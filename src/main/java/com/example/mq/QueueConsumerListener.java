@@ -33,18 +33,14 @@ public class QueueConsumerListener {
 
     //topic1模式的消费者
     @JmsListener(destination = "topic1", containerFactory = "topicListener")
+    @Async("mq")
     public void receiveTopic1(String message) {
         log.info("topic1接收的消息是：" + message);
     }
 
     //topic2模式的消费者
-    @JmsListener(destination = "topic2", containerFactory = "topicListener")
+    @JmsListener(destination = "topic2", containerFactory = "topicListener1")
     public void receiveTopic2(String message) {
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
         log.info("topic2接收的消息是：" + message);
     }
 

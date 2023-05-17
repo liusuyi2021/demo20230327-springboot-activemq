@@ -46,8 +46,6 @@ public class ProducerController
         this.sendMessage(this.queue2, str);
         return "queue2 success";
     }
-
-
     @PostMapping("/topic/test")
     public String sendTopic(@RequestBody String str) {
         this.sendMessage(this.topic1, str);
